@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "78492d92051c558329b0ab852a990d3c",
+    "content-hash": "5c1170a9869261c1c1d2ec873468221e",
     "packages": [
         {
             "name": "kabudu/symfony-autowire-test-bundle",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kabudu/symfony-autowire-test-bundle.git",
-                "reference": "c82cca8e45e34de18f0ea8d7c397028d15d67f41"
+                "reference": "6f3661fe34afc98a9ba5e2e3d5c527adecb7ca4e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kabudu/symfony-autowire-test-bundle/zipball/c82cca8e45e34de18f0ea8d7c397028d15d67f41",
-                "reference": "c82cca8e45e34de18f0ea8d7c397028d15d67f41",
+                "url": "https://api.github.com/repos/kabudu/symfony-autowire-test-bundle/zipball/6f3661fe34afc98a9ba5e2e3d5c527adecb7ca4e",
+                "reference": "6f3661fe34afc98a9ba5e2e3d5c527adecb7ca4e",
                 "shasum": ""
             },
             "require": {
@@ -51,7 +51,7 @@
                 "source": "https://github.com/kabudu/symfony-autowire-test-bundle/tree/master",
                 "issues": "https://github.com/kabudu/symfony-autowire-test-bundle/issues"
             },
-            "time": "2018-07-01T13:54:51+00:00"
+            "time": "2018-07-01T13:57:13+00:00"
         },
         {
             "name": "psr/cache",
@@ -1265,7 +1265,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v4.1.1",
+            "version": "v4.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
