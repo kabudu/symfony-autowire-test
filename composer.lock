@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5c1170a9869261c1c1d2ec873468221e",
+    "content-hash": "b38e8d7e990113f8429658fc2ca82fe2",
     "packages": [
         {
             "name": "kabudu/symfony-autowire-test-bundle",
